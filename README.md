@@ -11,8 +11,9 @@ Prepare for a showdown in the age-old battle of Rock, Paper, Scissor! Engage in 
    3. Scissor cuts Paper
 
 Get ready to showcase your hand-sign mastery and outsmart your opponent!
+
 <p align="center">
-  <img src="[link_to_rock_paper_scissor.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZseWY1N3lnamw2bmFvd2xvdHo2N2hjOWloN21haDQxYzNrMHdqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oFzm2KfdBkNl3FtNC/giphy.gif)" alt="Rock Paper Scissor GIF">
+  <img src="https://media.giphy.com/media/3oFzm2KfdBkNl3FtNC/giphy.gif" alt="Rock Paper Scissor GIF">
 </p>
 
 ## 2) Number Guessing Game
