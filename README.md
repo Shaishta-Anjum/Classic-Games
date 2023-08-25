@@ -1,6 +1,6 @@
-# Basic-Games 🎮
+# Classic-Games 🎮
 
-Welcome to the world of Basic Games! Get ready to have a blast with these classic and entertaining games. Let's jump right in:
+Remember those days when the world was simpler, and joy came in the form of pixelated adventures? Welcome to the realm of Classic Childhood Games, where I've gathered timeless favorites that will transport you back to the good ol' days of endless fun. Let's dive in and relive the magic!
 
 ## 1) ROCK PAPER SCISSOR!
 
